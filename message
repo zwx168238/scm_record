@@ -1,0 +1,11 @@
+###%%%comment:Modify version of Manifest and version git repository
+###%%%bug number:1053035
+###%%%product name:HP Android
+###%%%root cause:Unknown_Today
+###%%%regression response:NO
+###%%%regression comments:
+###%%%bug category:NJ-TS
+###%%%Module_Impact:SFN
+###%%%Test_Suggestion:please follow the test case
+###%%%Solution:new feature
+###%%%Test_Report:OK 
