@@ -49,9 +49,6 @@ RUN apt-get update && apt-get install -y software-properties-common python-softw
 COPY dumb-init /usr/local/bin/
 RUN chmod +x /usr/local/bin/dumb-init
 
-COPY build.sh /usr/local/bin/build.sh
-RUN chmod 755 /usr/local/bin/build.sh
-
 #fix TAB can't completion
 RUN apt-get update && apt-get install -y bash-completion
 
