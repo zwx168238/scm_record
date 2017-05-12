@@ -4,6 +4,7 @@ maintainer: alexsedova
 
 # How to build Android aosp in Docker container
  this image was create for android 7.1.1 codebase.
+ fork from :https://github.com/Praqma/AndroidAospInDocker
 ## Known problems
 
 #### Parallel jobs execution on Ububtu 14.04
